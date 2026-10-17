@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello 👋, I'm Ömer Faruk Berber
 
-<!--
-**omerfaruk-berber/omerfaruk-berber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am in Year 11 at İzmir Mithatpaşa Vocational and Technical Anatolian High School.
 
-Here are some ideas to get you started:
+I develop games using Unity 2D. I have experience in UX and C#. I enjoy working on and discussing new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating simple yet stable systems, writing clean code and prioritising the user experience.
+
+## Contact Me
+<p><a href="https://x.com/omerfarukbr_20" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://dev.to/omerfaruk-berber" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV"></a> <a href="https://www.instagram.com/omerfaruk.berber?srtk=amZmcWVhZG5mcWs4" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+
+## Skills
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c#" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=omerfaruk-berber&show_icons=true&count_private=true&theme=merko" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruk-berber&layout=compact&theme=merko" alt="Most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfaruk-berber&theme=merko" alt="GitHub Streak" />
+
