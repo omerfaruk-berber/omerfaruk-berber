@@ -22,9 +22,41 @@ I enjoy creating simple yet stable systems, writing clean code and prioritising 
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=omerfaruk-berber&show_icons=true&count_private=true&theme=merko" alt="GitHub Statistics" />
+<table align="center" border="0">
+  <tr border="0">
+    <td border="0">
+      <img height="180em"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruk-berber&layout=compact&theme=merko" />
+    </td>
+    <td border="0">
+      <img height="180em"
+           src="https://github-readme-streak-stats.herokuapp.com/?user=omerfaruk-berber&theme=merko" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruk-berber&layout=compact&theme=merko" alt="Most used languages" />
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfaruk-berber&theme=merko" alt="GitHub Streak" />
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
+  />
+
+<img
+    src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Activity - Last 365 Days"
+    width="100%"
+  />
+
+</picture>
+
+</div>
+
 
