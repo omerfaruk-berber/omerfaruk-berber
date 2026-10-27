@@ -1,4 +1,4 @@
-# Hello 👋, I'm Ömer Faruk Berber
+# Hello, I'm Ömer Faruk Berber
 
 I am in Year 11 at İzmir Mithatpaşa Vocational and Technical Anatolian High School.
 
